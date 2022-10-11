@@ -1,9 +1,5 @@
 # Image-captioning
 
-## CNN+LSTM results:
-![Image 1](image-captioning-lstm/Result1.jpg?raw=true "Image")
-![Image 2](image-captioning-lstm/Result2.jpg?raw=true "Image")
-![Image 3](image-captioning-lstm/Result3.jpg?raw=true "Image")
 
 ## ResNet+GRU results:
 
@@ -43,3 +39,9 @@ The number 2 dog in the blue vest is in the lead at the dog races .
 Predicted Caption : Three muzzled greyhounds race around a track while a dog watches .
 0.33180774028439436
 ```
+
+## CNN+LSTM results:
+![Image 1](image-captioning-lstm/Result1.png?raw=true "Image")
+![Image 2](image-captioning-lstm/Result2.png?raw=true "Image")
+![Image 3](image-captioning-lstm/Result3.png?raw=true "Image")
+
